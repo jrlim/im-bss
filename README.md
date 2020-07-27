@@ -1,4 +1,4 @@
-# metronic-vue
+# im-bss
 
 ## Project setup
 ```
